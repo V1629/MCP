@@ -1,0 +1,2 @@
+langchain-groq>=0.3.2
+mcp-use>=1.2.13

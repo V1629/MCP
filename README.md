@@ -1,11 +1,11 @@
-# MCP (Model transfer protocol) Project
+# Znagetsu  : An Agent for web automation
 
 > ⚠️ **Project Status: Under Active Development**
 > 
 > This project is currently in active development. Features and documentation are being continuously added and improved. Some functionalities may be incomplete or subject to change.
 
 ## Overview
-MCP is an advanced automation platform that enables seamless interaction with web applications and services through multiple channels. This project provides a unified interface for browser automation, web scraping, and task automation across different platforms.
+Zangetsu is an advanced automation platform that enables seamless interaction with web applications and services through multiple channels. This project provides a unified interface for browser automation, web scraping, and task automation across different platforms.
 
 ## Current Development Status
 - 🚧 Core functionality implementation in progress
@@ -35,8 +35,8 @@ MCP is an advanced automation platform that enables seamless interaction with we
 
 ## Technologies Used
 - Python
--langchain_groq
--mcp
+- langchain_groq
+- mcp
 - Playwright
 - Selenium
 - Web APIs

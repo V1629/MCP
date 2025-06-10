@@ -1,4 +1,4 @@
-# Znagetsu  : An Agent for web automation
+# Zangetsu  : An Agent for web automation
 
 > ⚠️ **Project Status: Under Active Development**
 > 
